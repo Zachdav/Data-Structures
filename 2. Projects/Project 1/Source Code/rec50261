@@ -1,0 +1,19 @@
+proj1:
+total 84
+-rwxr-xr-x. 1 ugrad   287 Mar  3 18:11 input.txt
+-rw-r--r--. 1 ugrad  2405 Mar  3 18:24 LinkedList.cpp
+-rwxr-xr-x. 1 ugrad  2190 Mar  3 18:23 LinkedList.h
+-rw-r--r--. 1 ugrad   712 Mar  2 12:27 Makefile
+-rw-r--r--. 1 ugrad   768 Mar  3 00:00 Order.cpp
+-rw-r--r--. 1 ugrad   784 Mar  2 12:33 Order.h
+-rw-r--r--. 1 ugrad  5596 Mar  3 18:12 p1.cpp
+-rw-r--r--. 1 ugrad 24486 Mar  3 19:18 PartII.pdf
+-rw-r--r--. 1 ugrad  1315 Mar  3 18:00 Queue.cpp
+-rwxr-xr-x. 1 ugrad  1090 Mar  3 17:44 Queue.h
+-rw-r--r--. 1 ugrad  1940 Mar  3 19:16 README.txt
+-rw-r--r--. 1 ugrad     0 Mar  3 19:19 rec50261
+-rw-r--r--. 1 ugrad   640 Mar  3 18:58 Stack.cpp
+-rw-r--r--. 1 ugrad   982 Mar  1 19:49 Stack.h
+-rw-r--r--. 1 ugrad  1247 Mar  3 19:03 SuperMarket.cpp
+-rw-r--r--. 1 ugrad   728 Mar  2 14:11 SuperMarket.h
+/home/ugrads/ambrose/cs2720/proj1:/home/work/cs2720
